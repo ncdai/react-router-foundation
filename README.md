@@ -1,4 +1,4 @@
-# redux-kpt
+# react-router-foundation
 Clone it to your machine. run
 
 npm install
